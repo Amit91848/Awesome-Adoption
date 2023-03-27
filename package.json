@@ -66,7 +66,7 @@
     "@types/react-test-renderer": "^18.0.0",
     "@types/validator": "^13.7.14",
     "@typescript-eslint/eslint-plugin": "^5.54.0",
-    "@typescript-eslint/parser": "^5.51.0",
+    "@typescript-eslint/parser": "^5.56.0",
     "autoprefixer": "^10.4.13",
     "eslint": "^8.35.0",
     "eslint-config-prettier": "^8.7.0",
