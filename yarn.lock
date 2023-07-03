@@ -7771,10 +7771,10 @@ pkg-up@^3.1.0:
   dependencies:
     find-up "^3.0.0"
 
-postcode-validator@^3.8.6:
-  version "3.8.6"
-  resolved "https://registry.yarnpkg.com/postcode-validator/-/postcode-validator-3.8.6.tgz#8845133435aaf01e8e954f3225cc1cdf2a5bbe23"
-  integrity sha512-FrRTaBEJrxr277y7md5LTf7+0L2TZMAwnfqMzRv+TxSRReFbX52TCPEpZzBMABcVDCbv6PzBwJx6mQCWgPkPCg==
+postcode-validator@^3.8.11:
+  version "3.8.11"
+  resolved "https://registry.yarnpkg.com/postcode-validator/-/postcode-validator-3.8.11.tgz#10f5b8ebd7f5a829abb8245c4a09afeba19ae595"
+  integrity sha512-zvrt0OdLQo7sS3iSA3yB1nDOZ/NGREeVskLky6tvElYLAgEeVey9CQZWKQgYlLvaBFf+wigSHymcHnyrjtWRzw==
 
 postcss-attribute-case-insensitive@^5.0.0:
   version "5.0.0"
