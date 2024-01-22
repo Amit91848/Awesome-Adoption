@@ -81,7 +81,7 @@
     "eslint-plugin-testing-library": "^6.2.0",
     "husky": "^8.0.3",
     "lint-staged": "^15.2.0",
-    "msw": "^2.0.12",
+    "msw": "^2.1.2",
     "postcss": "^8.4.33",
     "prettier": "^3.2.4",
     "pretty-quick": "^3.1.3",
