@@ -84,7 +84,7 @@
     "msw": "^2.8.7",
     "postcss": "^8.5.4",
     "prettier": "^3.5.3",
-    "pretty-quick": "^4.1.1",
+    "pretty-quick": "^4.2.2",
     "react-test-renderer": "^18.3.1",
     "standard": "^17.1.2",
     "tailwindcss": "^4.1.8"
